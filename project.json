@@ -1,0 +1,12 @@
+{
+  "name": "MCWorldGen",
+  "short_description": "",
+  "version": "0.0.1",
+  "author": "Terroid",
+  "email": "skandabhairava@gmail.com",
+  "author_github": "https://github.com/skandabhairava",
+  "entry_point": "MCWorldGen.py",
+  "working_directory": "src",
+  "github": "",
+  "license": "MIT"
+}

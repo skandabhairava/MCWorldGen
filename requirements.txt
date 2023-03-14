@@ -1,0 +1,4 @@
+amulet==1.21.0
+numpy==1.23.4
+git+https://github.com/pvigier/perlin-numpy
+scipy==1.10.0
